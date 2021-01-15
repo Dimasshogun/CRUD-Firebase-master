@@ -1,0 +1,16 @@
+com/dimas/firebasecrud/activities/MainActivity.java
+ com.dimas.firebasecrud.activities.MainActivity
+ com.dimas.firebasecrud.activities.MainActivity$1
+ com.dimas.firebasecrud.activities.MainActivity$10
+ com.dimas.firebasecrud.activities.MainActivity$11
+ com.dimas.firebasecrud.activities.MainActivity$12
+ com.dimas.firebasecrud.activities.MainActivity$2
+ com.dimas.firebasecrud.activities.MainActivity$3
+ com.dimas.firebasecrud.activities.MainActivity$4
+ com.dimas.firebasecrud.activities.MainActivity$5
+ com.dimas.firebasecrud.activities.MainActivity$6
+ com.dimas.firebasecrud.activities.MainActivity$7
+ com.dimas.firebasecrud.activities.MainActivity$8
+ com.dimas.firebasecrud.activities.MainActivity$9
+com/dimas/firebasecrud/BuildConfig.java
+ com.dimas.firebasecrud.BuildConfig
